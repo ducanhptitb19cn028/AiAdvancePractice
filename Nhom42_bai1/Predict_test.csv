@@ -2,7 +2,7 @@
 0,Male,Yes,0,Graduate,No,9083.0,0.0,228.0,360.0,1.0,1,Y
 1,Male,Yes,0,Graduate,No,4310.0,0.0,130.0,360.0,0.8,1,Y
 2,Male,Yes,2,Graduate,No,4167.0,1447.0,158.0,360.0,1.0,0,Y
-3,Female,No,0,Graduate,No,2900.0,0.0,71.0,360.0,1.0,0,N
+3,Female,No,0,Graduate,No,2900.0,0.0,71.0,360.0,1.0,0,Y
 4,Male,No,0,Graduate,No,2718.0,0.0,70.0,360.0,1.0,1,Y
 5,Male,Yes,1,Graduate,No,1782.0,2232.0,107.0,360.0,1.0,0,Y
 6,Male,Yes,2,Graduate,No,3717.0,0.0,120.0,360.0,1.0,1,Y
@@ -28,7 +28,7 @@
 26,Male,Yes,1,Not Graduate,No,1958.0,2436.0,131.0,360.0,1.0,0,Y
 27,Male,No,0,Graduate,No,3418.0,0.0,127.0,360.0,1.0,1,Y
 28,Female,No,0,Graduate,No,3813.0,0.0,116.0,180.0,1.0,2,Y
-29,Male,Yes,3+,Graduate,No,4106.0,0.0,40.0,180.0,1.0,0,N
+29,Male,Yes,3+,Graduate,No,4106.0,0.0,40.0,180.0,1.0,0,Y
 30,Male,Yes,2,Graduate,No,3200.0,700.0,70.0,360.0,1.0,2,Y
 31,Female,Yes,0,Graduate,No,2330.0,4486.0,100.0,360.0,1.0,1,Y
 32,Male,Yes,0,Not Graduate,No,2875.0,1750.0,105.0,360.0,1.0,1,Y
